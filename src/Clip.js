@@ -3,7 +3,7 @@ import { Player } from 'video-react';
 
 function App({ clip_fn }) {
   return (
-    <div style={{width: "33%", paddingLeft: "33%"}}>
+    <div style={{width: "75%", paddingLeft: "12.5%"}}>
         <h2>{ clip_fn }</h2>
         <Player
           playsInline
