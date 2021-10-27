@@ -1,5 +1,4 @@
 import Clip from './Clip'
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
