@@ -2,6 +2,7 @@ import Clip from './Clip'
 import './App.css';
 
 function App() {
+  document.body.style.backgroundImage = "url('bg.jpg')";
   return (
     <div className="App" style={{textAlign: "center"}}>
       <h1>paige__synth</h1>
