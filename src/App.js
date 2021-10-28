@@ -14,6 +14,7 @@ function App() {
       <Clip clip_fn="AlwaysBeenADream2"/>
       <Clip clip_fn="ThePaige_aHeartSoTrue5"/>
       <Clip clip_fn="ThePaige_aHeartSoTrue6"/>
+      <h3>Last updated 10/27/2021</h3>
     </div>
   );
 }
