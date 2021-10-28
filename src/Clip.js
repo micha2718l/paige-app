@@ -5,7 +5,7 @@ function App({ clip_fn }) {
   return (
     <div style={{margin: "5%", backgroundColor: "black"}}>
       <div style={{margin: "1rem", padding: "0.5rem", backgroundColor: "white"}}>
-          <h2>{ clip_fn }</h2>
+          <h3>{ clip_fn }</h3>
           <Player
             playsInline
             preload="metadata"
